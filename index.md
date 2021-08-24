@@ -3,7 +3,7 @@ Operating Systems 2021-2
 [HOME](.) | [RANK](/TXT/myrank.txt) | [LOG](TXT/mylog.txt) | [GitHub](https://github.com/bienreti/os212)
 
 Hello!
-This is Operating Systems 2021-2 (OS212) and i am Bimasena Putra.  
+This is Operating Systems 2021-2 ([OS212](https://scele.cs.ui.ac.id/course/view.php?id=3268)) and i am Bimasena Putra.
 
 ### LINKS
 [W01](w01.md)&ensp;&ensp;&ensp;&ensp;[W06](w06.md)\
