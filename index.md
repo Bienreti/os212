@@ -10,5 +10,4 @@ This is Operating Systems 2021-2 (OS212) and i am Bimasena Putra.
 [W02](w02.md)&ensp;&ensp;&ensp;&ensp;[W07](w07.md)\
 [W03](w03.md)&ensp;&ensp;&ensp;&ensp;[W08](w08.md)\
 [W04](w04.md)&ensp;&ensp;&ensp;&ensp;[W09](w09.md)\
-[W05](w05.md)&ensp;&ensp;&ensp;&ensp;[W10](w10.md)\
-
+[W05](w05.md)&ensp;&ensp;&ensp;&ensp;[W10](w10.md)
