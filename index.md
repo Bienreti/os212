@@ -6,7 +6,7 @@ Hello!
 This is Operating Systems 2021-2 ([OS212](https://scele.cs.ui.ac.id/course/view.php?id=3268)) and i am Bimasena Putra.
 
 ## LINKS
-### Top 10 List of Week 01
+### Top 10 List
 
 ...
 
