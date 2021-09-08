@@ -1,7 +1,3 @@
----
-layout: "layout"
----
-
 Operating Systems 2021-2
 ---
 [HOME](.) | [LINKS](https://github.com/bienreti/os212/LINKS) | [RANK](/TXT/myrank.txt) | [LOG](TXT/mylog.txt) | [GitHub](https://github.com/bienreti/os212)
