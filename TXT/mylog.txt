@@ -15,3 +15,5 @@ ZCZC W01  90 L02 ZOOM meeting related
 ZCZC W01  20 L15 Assignment #05: Syncing with GitHub
 ZCZC W01  20 L16 Assignment #06: GitHub Pages related
 ZCZC W01  10 L17 Assignment #07: Update mylog.txt
+ZCZC W01  40 L18 Assignment #08: Reading tutorials and hands-on regex & sed
+ZCZC W01  20 L19 Assignment #09: Quick read OSC chapter 1,2,18
