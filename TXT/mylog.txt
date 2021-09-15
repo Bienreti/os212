@@ -17,3 +17,14 @@ ZCZC W01  20 L16 Assignment #06: GitHub Pages related
 ZCZC W01  10 L17 Assignment #07: Update mylog.txt
 ZCZC W01  40 L18 Assignment #08: Reading tutorials and hands-on regex & sed
 ZCZC W01  20 L19 Assignment #09: Quick read OSC chapter 1,2,18
+ZCZC W02 120 L02 ZOOM Lecture
+ZCZC W02  20 L11 Assignment #01: Reading OSC chapter 16 & 17 summary and do GSGS
+ZCZC W02  34 L12 Assignment #02: Run all the c demos
+ZCZC W02  10 L14 Assignment #04: Generate GnuPG key pair
+ZCZC W02  05 L15 Assignment #05: List all GnuPG
+ZCZC W02  05 L16 Assignment #06: Importing OS public key
+ZCZC W02  05 L17 Assignment #07: Signing OS public key
+ZCZC W02  20 L18 Assignment #08: Exporting public key
+ZCZC W02  10 L09 Assignment #11: Write myscript.sh
+ZCZC W02  10 L09 Assignment #12: Update mylog.txt
+ZCZC W02  10 L09 Assignment #13: Write and export myscript.sh and its generated files   
