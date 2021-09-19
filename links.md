@@ -8,11 +8,11 @@ Operating Systems 2021-2
 
 ## LINKS
 
-Hello, this is my collection of articles and videos that i find interesting and helpful.
+Hello, this is my collection of sites that i find interesting and helpful.
 
 #### 1. [The unsolved math problem which could be worth a billion dollars (YouTube)](https://www.youtube.com/watch?v=8COArd_EREw)
 
-The video taught me what SHA256SUM, the most commonly computed algorithm in the world, is. In the video, there's also an explanation of how hash function works, what are the application of SHA256SUM, cool fact about SHA256SUM, and what makes it so important.
+The video taught me what SHA256SUM, the most commonly computed algorithm in the world, is. In the video, there is also an explanation of how hash function works, what are the application of SHA256SUM, cool fact about SHA256SUM, and what makes it so important.
 
 #### 2. [Learn VIM while playing a game - VIM Adventures](https://vim-adventures.com/)
 
@@ -28,9 +28,9 @@ Short video explaining about PGP/GPG.
 
 #### 5. [regex101: build, test, and debug regex](https://regex101.com/)
 
-A very helpful site to try out/hands-on regex without turning on virtualbox and possibly making some mistake (or dump files).
+A very helpful site to try out/hands-on regex without turning on virtualbox and possibly making some mistakes (or dump files).
 
 
 #### 6. [Pengertian CHMOD dan CHOWN untuk Ganti Permission di Linux](https://www.hostinger.co.id/tutorial/pengertian-chmod-dan-chown-untuk-ganti-permission-di-linux/)
 
-Gives you a basic idea how to grant and deny read, write, execute access to a particular file or directory of which user.
+Gives you a basic idea how to grant and remove read, write, execute access of a particular file or directory of which user.
