@@ -12,7 +12,7 @@ Hello, this is my collection of articles and videos that i find interesting and 
 
 #### 1. [The unsolved math problem which could be worth a billion dollars (YouTube)](https://www.youtube.com/watch?v=8COArd_EREw)
 
-The video taught me what is SHA256SUM, the most commonly computed algorithm in the world. In the video, there's also an explanation of how hash function works, what are the application of SHA256SUM, cool fact about SHA256SUM, and what makes it so important.
+The video taught me what SHA256SUM, the most commonly computed algorithm in the world, is. In the video, there's also an explanation of how hash function works, what are the application of SHA256SUM, cool fact about SHA256SUM, and what makes it so important.
 
 #### 2. [Learn VIM while playing a game - VIM Adventures](https://vim-adventures.com/)
 
