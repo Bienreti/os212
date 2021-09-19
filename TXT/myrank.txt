@@ -1,5 +1,4 @@
-# Rank Format
-# ZCZC WEEK# NAME
 # TOP 10 Rank
-
-..
+ZCZC W02 bimabara
+ZCZC W02 bintangazriel
+ZCZC W02 chrisbagas
