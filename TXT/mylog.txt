@@ -28,3 +28,6 @@ ZCZC W02  20 L18 Assignment #08: Exporting public key
 ZCZC W02  10 L09 Assignment #11: Write myscript.sh
 ZCZC W02  10 L09 Assignment #12: Update mylog.txt
 ZCZC W02  10 L09 Assignment #13: Write and export myscript.sh and its generated files   
+ZCZC W02  20 L13 Assignment #03: Watching assignment
+ZCZC W02  15 L19 Assignment #09: Update links
+ZCZC W02  10 L20 Assignment #10: Peer review
