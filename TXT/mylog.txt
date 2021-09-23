@@ -28,6 +28,17 @@ ZCZC W02  20 L18 Assignment #08: Exporting public key
 ZCZC W02  10 L09 Assignment #11: Write myscript.sh
 ZCZC W02  10 L09 Assignment #12: Update mylog.txt
 ZCZC W02  10 L09 Assignment #13: Write and export myscript.sh and its generated files   
+<<<<<<< HEAD
 ZCZC W02  20 L13 Assignment #03: Watching assignment
 ZCZC W02  15 L19 Assignment #09: Update links
 ZCZC W02  10 L20 Assignment #10: Peer review
+=======
+ZCZC W03 120 L02 ZOOM Lecture
+ZCZC W03  30 L11 Assignment #01: Reading OSC chapter 13+14+15 and do GSGS
+ZCZC W03  10 L12 Assignment #02: Tried the demo, but getting unresolved error
+ZCZC W03  30 L13 Assignment #03: Tried several previous midterm problems
+ZCZC W03  05 L14 Assignment #04: Update .bash_aliases
+ZCZC W03  20 L15 Assignment #05: Creating, Finding, Formatting, Mounting, Chowning, Testing new disk
+ZCZC W03  05 L18 Assignment #08: Update mylog.txt
+ZCZC W03  05 L19 Assignment #09: Submit W03 assignment
+>>>>>>> 2850fe0 (OS212 bienreti TXT)
