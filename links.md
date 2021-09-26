@@ -42,6 +42,8 @@ If you are confused with inode, then this will pinpoint out and makes it clearer
 
 Explains the possible varieties of how the processor decides which thread to be processed first.
 
+---
+
 #### 9. [The unsolved math problem which could be worth a billion dollars (YouTube)](https://www.youtube.com/watch?v=8COArd_EREw)
 
 The video taught me what SHA256SUM, the most commonly computed algorithm in the world, is. In the video, there is also an explanation of how hash function works, what are the application of SHA256SUM, cool fact about SHA256SUM, and what makes it so important.
