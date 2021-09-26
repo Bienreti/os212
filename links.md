@@ -38,7 +38,7 @@ Enough for Windows. This video explains very clearly the EXT or Linux's file sys
 
 If you are confused with inode, then this will pinpoint out and makes it clearer what is inode like in the user's point of view explained using hard and symbolic links. 
 
-#### 8. [Scheduling Policies - Georgia Tech - Advanced Operating Systems](https://www.youtube.com/watch?v=fQin6dsYTdE)
+#### 8. [Scheduling Policies - Georgia Tech - Advanced Operating Systems (YouTube)](https://www.youtube.com/watch?v=fQin6dsYTdE)
 
 Explains the possible varieties of how the processor decides which thread to be processed first.
 
