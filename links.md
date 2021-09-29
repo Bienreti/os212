@@ -16,7 +16,7 @@ This pdf introduced pointer variables, demonstrated pointer pass-by-value vs pas
 
 #### 2. [Pointer Arithmetic and Indexing, NULL and Void Pointer, and L-R Values (pdf)](http://web.cse.ohio-state.edu/~reeves.92/CSE2421au12/SlidesDay12_13.pdf)
 
-Prerequisite: basic understanding of pointer. This pdf which is just 10 slides showed the difference of increment then dereference vs dereference then increment and how much the increment value will be depending on its pointer data type (this is extremely important to know since it is so tricky). It also showed how pointer and array is so similar in some ways. Furthermore, this pdf listed what you can (and can't) do with void pointer also described the NULL usage in pointers. Another thing that this pdf has is that this pdf gave what expression can be occupied (the L value) and what can occupies (the R value), but note that this information need not to be memorized if one can find such pattern. 
+Prerequisite: basic understanding of pointer. This pdf which is just 10 slides showed the difference of increment then dereference vs dereference then increment and how much the increment value will be depending on its pointer data type (this is extremely important to know since it is so tricky). It also showed how pointer and array is so similar in some ways. Furthermore, this pdf listed what you can (and can't) do with void pointer also described the NULL usage in pointers. Another thing that this pdf has is that this pdf gave the list for you of what expression can be occupied (the L value) and what can occupies (the R value), but note that this information need not to be memorized if one can find such pattern. 
 
 ---
 
