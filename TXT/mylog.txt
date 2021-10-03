@@ -44,9 +44,10 @@ ZCZC W03  10 L17 Assignment #07: Peer review
 ZCZC W04 120 L02 ZOOM Lecture
 ZCZC W04  60 L11 Assignment #01: Reading OSC chapter 9
 ZCZC W04  60 L12 Assignment #02: Running and investigating W04 demos
-ZCZC W04  15 L13 Assignment #04: Worked the last question
-ZCZC W04  05 L14 Assignment #05: Successfully installed TLPI
-ZCZC W04  15 L15 Assignment #06: Downloaded, extracted, and TLPI and created W04 directory
-ZCZC W04  60 L16 Assignment #07: Updated links.md
+ZCZC W04  15 L13 Assignment #03: Worked the last question
+ZCZC W04  05 L14 Assignment #04: Successfully installed TLPI
+ZCZC W04  15 L15 Assignment #05: Downloaded, extracted, and TLPI and created W04 directory
+ZCZC W04  60 L16 Assignment #06: Updated links.md
 ZCZC W04  05 L18 Assignment #08: Updated mylog.txt
 ZCZC W04  05 L19 Assignment #09: Submit W04
+ZCZC W04  05 L17 Assignment #07: Update myrank.txt
