@@ -16,7 +16,7 @@ This article fully explains in detail of paging. For example, it showed the work
 
 #### 2. [Lecture 13: Demand Paging (YouTube)](https://www.youtube.com/watch?v=4KFZMaCenX4)
 
-(If you prefer the pdf version: [pdf](http://lass.cs.umass.edu/~shenoy/courses/fall14/lectures/Lec15.pdf)). This YouTube video covers every important part of virtual memory. What i mean by important is the topic that shows up in the exam and OSC10 chapter 10. This video is what you need if you want to verify as well as strengthen your understanding about demand paging, page fault, and page replacement algorithm.
+(If you prefer the pdf version: [pdf](http://lass.cs.umass.edu/~shenoy/courses/fall14/lectures/Lec15.pdf)). This lecture briefly reviews the last material which is about paging and segmentation then proceed to every important part of virtual memory. What i mean by important is the topic that shows up in the exam and OSC10 chapter 10. This video is what you need if you want to verify as well as strengthen your understanding about demand paging, page fault, and page replacement algorithm.
 
 ---
 
