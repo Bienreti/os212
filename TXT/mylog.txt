@@ -51,3 +51,13 @@ ZCZC W04  60 L16 Assignment #06: Updated links.md
 ZCZC W04  05 L18 Assignment #08: Updated mylog.txt
 ZCZC W04  05 L19 Assignment #09: Submit W04
 ZCZC W04  05 L17 Assignment #07: Update myrank.txt
+ZCZC W05 120 L02 ZOOM Lecture
+ZCZC W05  60 L11 Assignment #01: Reading OSC chapter 10
+ZCZC W05  15 L12 Assignment #02: Demo W05
+ZCZC W05  20 L13 Assignment #03: Last midterm problems
+ZCZC W05  15 L14 Assignment #04: Set memory to 256 mb, fetch the tar, and reordered the c program
+ZCZC W05  30 L15 Assignment #05: Updated links.md
+ZCZC W05  30 L27 Exported private keys to windows using WinSCP and decrypt text using it
+ZCZC W05  05 L17 Assignment #07: Updated myrank.txt
+ZCZC W05  05 L18 Assignment #08: Updated mylog.txt
+ZCZC W05  05 L19 Assignment #09: Submit W05
