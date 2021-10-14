@@ -10,7 +10,7 @@ Operating Systems 2021-2
 
 #### 1. Spend less time to actually read the OSC book (just grasp the general idea by skimming) and spend more time on resources on the internet
 
-Sometimes the book is too technical and hard to follow. Save your time by searching other resources on the internet. They are mostly more easy to understand.
+Sometimes the book is too technical and hard to follow. Save your time by searching other resources on the internet. They are mostly easier to understand.
 
 #### 2. Do all the demo and last year mid/final-term exams (don't skip it)
 
