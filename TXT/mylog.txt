@@ -61,3 +61,12 @@ ZCZC W05  30 L27 Exported private keys to windows using WinSCP and decrypt text 
 ZCZC W05  05 L17 Assignment #07: Updated myrank.txt
 ZCZC W05  05 L18 Assignment #08: Updated mylog.txt
 ZCZC W05  05 L19 Assignment #09: Submit W05
+ZCZC W06  30 L11 Assignment #01: Reading OSC Chapter 3&4
+ZCZC W06  60 L12 Assignment #02: Demo W06
+ZCZC W06  60 L13 Assignment #03: Last midterm problems
+ZCZC W06  10 L14 Assignment #04: Run W06 script
+ZCZC W06  20 L15 Assignment #05: Update links.md
+ZZZC W06  10 L16 Assignment #06: Create tips.md
+ZCZC W06  10 L17 Assignment #07: Review peer links
+ZCZC W06  10 L18 Assignment #08: Update mylog.txt
+ZCZC W06  05 L19 Assignment #09: Submit W06 assignment
