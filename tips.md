@@ -18,7 +18,7 @@ Not doing it will make you have a bad grade on quiz.
 
 #### 3. Your links are very useful, try to have the best set of links
 
-Links are urgent when you want to lookup to some concepts. You can also use links you have gotten from #1. Bam! Kill two birds with one stone.
+Links are crucial when you want to lookup to some concepts. You can also use links you have gotten from #1. Bam! Kill two birds with one stone.
 
 #### 4. Actively check the course page on SCeLE
 
