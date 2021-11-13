@@ -38,4 +38,4 @@ You should know what you're heading to if the course uses VirtualBox (Hint: Lot 
 
 #### 8. Backup your virtual box image before doing some high risk assignment
 
-Later in the course, some part of the assignment will take about 15-30 minutes. If you fail that one, you must inevitably repeat the assign which can take hours to complete.
+Later in the course, some part of the assignment will take about 15-30 minutes. If you fail that one, you must inevitably repeat the whole assignment if you don't do the backup which can take hours to complete.
