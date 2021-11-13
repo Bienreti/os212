@@ -31,3 +31,11 @@ First, open the MidTem problem pdf which has the name "^\d+$".pdf (some_number.p
 #### 6. Need some more exercises? Try searching for GATE-CS problem and solution of a particular topic on the internet
 
 GATE-CS is a test for getting into post-grad CS/IT program in top indian uni's. Fortunately, operating system come out to be one of the covered topics.
+
+#### 7. Get yourself a beefy computer ASAP
+
+You should know what you're heading to if the course uses VirtualBox (Hint: Lot of rams).
+
+#### 8. Backup your virtual box image before doing some high risk assignment
+
+Later in the course, some part of the assignment will take about 15-30 minutes. If you fail that one, you must inevitably repeat the assign which can take hours to complete.
