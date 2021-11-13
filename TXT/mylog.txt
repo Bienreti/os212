@@ -79,3 +79,13 @@ ZCZC W07  10 L16 Assignment #06: Add two tips
 ZCZC W07  10 L17 Assignment #07: Review peers
 ZCZC W07  10 L18 Assignment #08: Update mylog.txt
 ZCZC W07  10 L19 Assignment #09: Submit W07
+ZCZC W08  60 L11 Assignment #01: GSGS Chapter 5
+ZCZC W08  60 L12 Assignment #02: Compile some W08 Demos
+ZCZC W08  60 L13 Assignment #03: Worked the 203.pdf
+ZCZC W08 180 L14 Assignment #04: Follow all LFS 1-4 instruction
+ZCZC W08 210 L15 Assignment #05: Follow all LFS 5 instruction (and a lot of waiting)
+ZCZC W08  10 L16 Assignment #06: Update links
+ZCZC W08  10 L17 Assignment #07: Update tips
+ZCZC W08  10 L18 Assignment #08: Peer review
+ZCZC W08  10 L19 Assignment #09: Update log
+ZCZC W08  10 L20 Assignment #10: Submit W08  
