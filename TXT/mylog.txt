@@ -89,3 +89,12 @@ ZCZC W08  10 L17 Assignment #07: Update tips
 ZCZC W08  10 L18 Assignment #08: Peer review
 ZCZC W08  10 L19 Assignment #09: Update log
 ZCZC W08  10 L20 Assignment #10: Submit W08  
+ZCZC W09  75 L11 Assignment #01: GSGS Chapter 11
+ZCZC W09  25 L12 Assignment #02: Tried the demos and solve some error encountered
+ZCZC W09  45 L13 Assignment #03: Worked the 204.pdf
+ZCZC W09  90 L14 Assignment #04: Followed all LFS 6 and 7 instruction
+ZCZC W09  10 L15 Assignment #05: Update links.md
+ZCZC W09  10 L16 Assignment #06: Update tips.md
+ZCZC W09  05 L17 Assignment #07: Peer review
+ZCZC W09  05 L18 Assignment #08: Update mylog.txt
+ZCZC W09  05 L19 Assignment #09: Submit W09
