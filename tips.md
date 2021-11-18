@@ -38,4 +38,12 @@ You should know what you're heading to if the course uses VirtualBox (Hint: Lot 
 
 #### 8. Backup your virtual box image before doing some high risk assignment
 
-Later in the course, some part of the assignment will take about 15-30 minutes. If you fail that one, you must inevitably repeat the whole assignment if you don't do the backup which can take hours to complete.
+Later in the course, some part of the assignment will take about 15-30 minutes. If you fail that one, you must inevitably repeat the whole assignment which can take hours to complete if you don't do the backup .
+
+#### 9. Seriously prepare and don't be late for the weekly quiz (If there is no mid or final term test)
+
+I think it has the largest portion of your weekly grade (based on my experience) so please take this advice.
+
+#### 10. You probably shouldn't attend class if you are not really participating
+
+Doing #1, #3, #4, and #5 is probably enough to pass the week. You can still get the paraphrase by asking on discord or friend or TA.
